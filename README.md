@@ -19,7 +19,7 @@ This portfolio is organized into four sections.
 These documents describe the principles that guide how I approach software engineering and how my thinking has evolved throughout my career.
 
 - [Engineering Philosophy](https://github.com/hankgalt/engineering-portfolio/blob/main/engineering-philosphy.md)
-- [Engineering Journey](engineering-journey.md)
+- [Engineering Journey](https://github.com/hankgalt/engineering-portfolio/blob/main/engineering-journey.md)
 
 ---
 
