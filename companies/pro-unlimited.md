@@ -1,54 +1,64 @@
 # Prounlimited
 
 **Company:** Prounlimited  
-**Role:** Senior Software Engineer (Consultant)  
-**Duration:** 2006-2007
+**Role:** Software Engineer (Consultant)  
+**Duration:** 2006 – 2007 (6 months)
 
 ---
 
 # Career Context
 
-My engagement at Prounlimited continued my transition toward backend and distributed systems engineering. By this point in my career, I had intentionally chosen consulting to broaden my technical experience by working with different organizations, architectures, and engineering practices.
+Prounlimited was my first professional software engineering position after completing my master's degree.
 
-Although relatively short, this engagement allowed me to further strengthen my backend development skills while working on enterprise workforce management software.
+Coming from a Mechanical Engineering background, I was eager to transition into software engineering but knew I needed practical industry experience. Joining Prounlimited as a consultant gave me my first opportunity to work on a commercial software product, collaborate within a professional engineering team, and experience the complete software development lifecycle outside of academia.
+
+Although the engagement lasted only six months, it played an important role in launching my software engineering career. It confirmed that I enjoyed building software professionally and gave me the industry experience that helped open the door to my next opportunity at Tickets.com.
 
 ---
 
 # Executive Summary
 
-Prounlimited provides workforce management and staffing solutions for large enterprise customers.
+Prounlimited developed enterprise software for workforce management and staffing organizations.
 
-I contributed to backend services supporting workforce operations, working closely with the engineering team to implement features, improve existing services, and support ongoing product development.
+As a software engineering consultant, I contributed to the development and maintenance of business applications while learning professional software development practices in a commercial environment.
 
-As with many consulting engagements, success depended on quickly understanding the business domain, integrating into the team, and delivering value within a limited period.
+The role required quickly adapting to an existing codebase, understanding business requirements, and collaborating with experienced engineers to deliver production software.
+
+More importantly, it marked the beginning of my transition from an engineering graduate to a practicing software engineer.
 
 ---
 
 # Responsibilities
 
-- Developed backend services
-- Implemented new business functionality
-- Maintained and enhanced existing services
-- Collaborated with cross-functional engineering teams
-- Participated in code reviews and Agile development processes
+- Developed and maintained enterprise software features
+- Fixed defects and enhanced existing functionality
+- Collaborated with senior engineers and project stakeholders
+- Participated in software testing and debugging
+- Learned professional software development workflows and team collaboration
 
 ---
 
 # Key Takeaways
 
-This engagement reinforced several principles that have continued throughout my consulting career:
+Although relatively short, this engagement established the foundation for my software engineering career.
 
-- Every organization solves similar engineering problems differently, providing valuable opportunities to learn.
-- The ability to understand unfamiliar systems quickly is an essential engineering skill.
-- Effective software engineering depends as much on communication and collaboration as on technical implementation.
+It taught me:
+
+- How professional software development differs from academic programming.
+- The importance of understanding business requirements before writing code.
+- How software is developed collaboratively within engineering teams.
+- The value of writing maintainable, production-quality code.
+
+Most importantly, it gave me the confidence to pursue software engineering as a long-term profession and led directly to my next role at Tickets.com, where I continued developing both my technical skills and professional confidence.
 
 ---
 
 # Technologies
 
-- Python
-- Flask
-- REST APIs
-- Enterprise Backend Services
-- Git
+- JavaScript
+- HTML
+- CSS
+- SQL
+- Enterprise Web Applications
+- Source Control
 - Agile Development
