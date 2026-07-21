@@ -62,7 +62,7 @@ These repositories represent recurring engineering patterns that I generalized i
 - [Batch Orchestra](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/batch-orchestra.md)
 - [Workflow Scheduler](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/workflow-scheduler.md)
 - [Embeddings](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/embeddings.md)
-- [Comff-Geo](open-source/comff-geo.md)
+- [Comfforts](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/comfforts.md)
 
 ---
 

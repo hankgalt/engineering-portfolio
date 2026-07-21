@@ -2,7 +2,7 @@
 
 **Company:** Prounlimited  
 **Role:** Senior Software Engineer (Consultant)  
-**Duration:** 2020 (6 months)
+**Duration:** 2006-2007
 
 ---
 
