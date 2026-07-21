@@ -39,15 +39,15 @@ Each chapter discusses:
 
 ### Companies
 
-- [Prounlimited](https://github.com/hankgalt/engineering-portfolio/companies/pro-unlimited.md)
-- [Tickets.com](https://github.com/hankgalt/engineering-portfolio/companies/tickets.md)
-- [Williams-Sonoma](https://github.com/hankgalt/engineering-portfolio/companies/williams-sonoma.md)
-- [ViaPath Technologies](https://github.com/hankgalt/engineering-portfolio/companies/viapath.md)
-- [Uber](https://github.com/hankgalt/engineering-portfolio/companies/uber.md)
-- [Restoration Hardware](https://github.com/hankgalt/engineering-portfolio/companies/restoration_hardware.md)
-- [Walmart Global Tech](https://github.com/hankgalt/engineering-portfolio/companies/walmart.md)
-- [eBay](https://github.com/hankgalt/engineering-portfolio/companies/ebay.md)
-- [Shrapnel](https://github.com/hankgalt/engineering-portfolio/companies/shrapnel.md)
+- [Prounlimited](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/pro-unlimited.md)
+- [Tickets.com](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/tickets.md)
+- [Williams-Sonoma](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/williams-sonoma.md)
+- [ViaPath Technologies](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/viapath.md)
+- [Uber](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/uber.md)
+- [Restoration Hardware](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/restoration_hardware.md)
+- [Walmart Global Tech](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/walmart.md)
+- [eBay](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/ebay.md)
+- [Shrapnel](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/shrapnel.md)
 
 ---
 
@@ -59,9 +59,9 @@ These repositories represent recurring engineering patterns that I generalized i
 
 ### Projects
 
-- [Batch Orchestra](https://github.com/hankgalt/engineering-portfolio/open-source/batch-orchestra.md)
-- [Workflow Scheduler](https://github.com/hankgalt/engineering-portfolio/open-source/workflow-scheduler.md)
-- [Embeddings](https://github.com/hankgalt/engineering-portfolio/open-source/embeddings.md)
+- [Batch Orchestra](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/batch-orchestra.md)
+- [Workflow Scheduler](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/workflow-scheduler.md)
+- [Embeddings](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/embeddings.md)
 - [Comff-Geo](open-source/comff-geo.md)
 
 ---
