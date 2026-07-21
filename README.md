@@ -39,12 +39,12 @@ Each chapter discusses:
 
 ### Companies
 
-- [Prounlimited](https://github.com/hankgalt/engineering-portfolio/companies/prounlimited.md)
+- [Prounlimited](https://github.com/hankgalt/engineering-portfolio/companies/pro-unlimited.md)
 - [Tickets.com](https://github.com/hankgalt/engineering-portfolio/companies/tickets.md)
 - [Williams-Sonoma](https://github.com/hankgalt/engineering-portfolio/companies/williams-sonoma.md)
 - [ViaPath Technologies](https://github.com/hankgalt/engineering-portfolio/companies/viapath.md)
 - [Uber](https://github.com/hankgalt/engineering-portfolio/companies/uber.md)
-- [Restoration Hardware](https://github.com/hankgalt/engineering-portfolio/companies/restoration-hardware.md)
+- [Restoration Hardware](https://github.com/hankgalt/engineering-portfolio/companies/restoration_hardware.md)
 - [Walmart Global Tech](https://github.com/hankgalt/engineering-portfolio/companies/walmart.md)
 - [eBay](https://github.com/hankgalt/engineering-portfolio/companies/ebay.md)
 - [Shrapnel](https://github.com/hankgalt/engineering-portfolio/companies/shrapnel.md)
