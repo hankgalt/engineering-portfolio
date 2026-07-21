@@ -8,6 +8,8 @@
 
 # Career Context
 
+Although my formal education was in Mechanical Engineering, I had developed a strong interest in software during my undergraduate years and completed a diploma in Software Engineering alongside my engineering degree. After graduate school, I decided to pursue software development professionally.
+
 Prounlimited was my first professional software engineering position after completing my master's degree.
 
 Coming from a Mechanical Engineering background, I was eager to transition into software engineering but knew I needed practical industry experience. Joining Prounlimited as a consultant gave me my first opportunity to work on a commercial software product, collaborate within a professional engineering team, and experience the complete software development lifecycle outside of academia.

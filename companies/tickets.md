@@ -8,10 +8,6 @@
 
 # Career Context
 
-Tickets.com marked the beginning of my professional software engineering career.
-
-Although my formal education was in Mechanical Engineering, I had developed a strong interest in software during my undergraduate years and completed a diploma in Software Engineering alongside my engineering degree. After graduate school, I decided to pursue software development professionally.
-
 Joining Tickets.com as a consultant was my first opportunity to prove that I could succeed as a software engineer.
 
 More importantly, it was the company where I gained the confidence that software engineering was not simply something I could do—it was where I belonged.
