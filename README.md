@@ -18,7 +18,7 @@ This portfolio is organized into four sections.
 
 These documents describe the principles that guide how I approach software engineering and how my thinking has evolved throughout my career.
 
-- [Engineering Philosophy](engineering-philosophy.md)
+- [Engineering Philosophy](https://github.com/hankgalt/engineering-portfolio/blob/main/engineering-philosphy.md)
 - [Engineering Journey](engineering-journey.md)
 
 ---
@@ -39,15 +39,15 @@ Each chapter discusses:
 
 ### Companies
 
-- [Tickets.com](companies/tickets.md)
-- [Williams-Sonoma](companies/williams-sonoma.md)
-- [ViaPath Technologies](companies/viapath.md)
-- [Uber](companies/uber.md)
-- [Restoration Hardware](companies/restoration-hardware.md)
-- [Prounlimited](companies/prounlimited.md)
-- [Walmart Global Tech](companies/walmart.md)
-- [eBay](companies/ebay.md)
-- [Shrapnel](companies/shrapnel.md)
+- [Prounlimited](https://github.com/hankgalt/engineering-portfolio/companies/prounlimited.md)
+- [Tickets.com](https://github.com/hankgalt/engineering-portfolio/companies/tickets.md)
+- [Williams-Sonoma](https://github.com/hankgalt/engineering-portfolio/companies/williams-sonoma.md)
+- [ViaPath Technologies](https://github.com/hankgalt/engineering-portfolio/companies/viapath.md)
+- [Uber](https://github.com/hankgalt/engineering-portfolio/companies/uber.md)
+- [Restoration Hardware](https://github.com/hankgalt/engineering-portfolio/companies/restoration-hardware.md)
+- [Walmart Global Tech](https://github.com/hankgalt/engineering-portfolio/companies/walmart.md)
+- [eBay](https://github.com/hankgalt/engineering-portfolio/companies/ebay.md)
+- [Shrapnel](https://github.com/hankgalt/engineering-portfolio/companies/shrapnel.md)
 
 ---
 
@@ -59,9 +59,9 @@ These repositories represent recurring engineering patterns that I generalized i
 
 ### Projects
 
-- [Batch Orchestra](open-source/batch-orchestra.md)
-- [Workflow Scheduler](open-source/workflow-scheduler.md)
-- [Embeddings](open-source/embeddings.md)
+- [Batch Orchestra](https://github.com/hankgalt/engineering-portfolio/open-source/batch-orchestra.md)
+- [Workflow Scheduler](https://github.com/hankgalt/engineering-portfolio/open-source/workflow-scheduler.md)
+- [Embeddings](https://github.com/hankgalt/engineering-portfolio/open-source/embeddings.md)
 - [Comff-Geo](open-source/comff-geo.md)
 
 ---
@@ -124,7 +124,6 @@ My hope is that readers come away with a deeper understanding of how I approach 
 # Connect
 
 - **GitHub:** https://github.com/hankgalt
-- **LinkedIn:** *(add link)*
-- **Portfolio:** *(if hosted separately)*
+- **LinkedIn:** *[Vishal Talwar](https://www.linkedin.com/in/hankgalt/)*
 
 Thank you for taking the time to explore my work.
