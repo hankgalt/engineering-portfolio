@@ -59,10 +59,12 @@ These repositories represent recurring engineering patterns that I generalized i
 
 ### Projects
 
+- [Comfforts Platform](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/comfforts.md)
 - [Batch Orchestra](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/batch-orchestra.md)
 - [Workflow Scheduler](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/workflow-scheduler.md)
 - [Embeddings](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/embeddings.md)
-- [Comfforts](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/comfforts.md)
+- [geocode](https://github.com/comfforts/geocode)
+- [geohash](https://github.com/comfforts/geohash)
 
 ---
 
