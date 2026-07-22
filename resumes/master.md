@@ -18,7 +18,7 @@ vtalwar.w@gmail.com
 
 # Professional Summary
 
-Software engineer with 18+ years of experience designing and building distributed systems, developer platforms, workflow-oriented applications, and enterprise software.
+Senior Software Engineer with 18+ years of experience designing distributed systems, developer platforms, and workflow-driven applications. Experienced in decomposing complex business domains into scalable microservices, building reusable platform capabilities, and developing open-source infrastructure spanning geospatial intelligence, workflow orchestration, identity management, and cloud-native operations.
 
 Throughout my career, I have intentionally sought opportunities that broadened my understanding of software engineering—from enterprise web applications and reusable frontend frameworks to distributed systems, workflow orchestration, metadata-driven architectures, and resilient platform infrastructure.
 
@@ -389,6 +389,36 @@ Core JAVA, EJB, Hibernate, Javascript, HTML, CSS
 
 # Open Source
 
+## [Comfforts Platform](https://github.com/comfforts)
+
+Founder & Software Architect
+
+2024 – Present
+
+Designing and building an open-source microservices platform to support individuals, local communities, businesses, and service providers. The platform is organized around independently deployable services for identity management, geospatial intelligence, workflow orchestration, communication, and operational infrastructure, with gRPC-based service contracts and Kubernetes-native deployment.
+
+[architecture overview](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/comfforts.md)
+
+Highlights
+
+• Designed a modular microservices architecture with clearly defined domain ownership across profile management, geospatial services, workflow orchestration, email delivery, and web application layers.
+
+• Built strongly typed service contracts using gRPC and Protocol Buffers, with reusable Go and TypeScript client libraries to simplify service integration.
+
+• Implemented durable onboarding workflows using Temporal, separating long-running business orchestration from domain services through dedicated workflow and worker components.
+
+• Developed a geospatial platform combining address normalization, semantic search, route optimization, Redis caching, MongoDB persistence, Elasticsearch vector search, and ONNX-based embeddings.
+
+• Built platform infrastructure using Kubernetes, Helm, Kustomize, OpenTelemetry, Prometheus, Grafana, Jaeger, Loki, MongoDB, Redis, and Temporal to enable reproducible local development and observability across services.
+
+• Created a REST gateway and Next.js web application that expose platform capabilities while preserving gRPC-based internal service boundaries.
+
+Technologies
+
+Go, TypeScript, Next.js, gRPC, Protocol Buffers, Temporal, MongoDB, Redis, Elasticsearch, ONNX Runtime, Kubernetes, Docker, Helm, OpenTelemetry, Prometheus, Grafana, Jaeger, Loki
+
+---
+
 ## [Batch Orchestra](https://github.com/hankgalt/batch-orchestra)
 
 Generic batch-processing framework built on Temporal for resilient, large-scale workflows.
@@ -434,12 +464,6 @@ Highlights
 • OpenTelemetry
 
 • Kubernetes
-
----
-
-## [Comfforts](https://github.com/comfforts)
-
-Distributed geocoding service built with Go, gRPC, libpostal, and ONNX embeddings.
 
 ---
 
