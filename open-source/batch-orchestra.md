@@ -1,6 +1,6 @@
 # Batch Orchestra
 
-**Repository:** github.com/hankgalt/batch-orchestra
+**Repository:** [github.com/hankgalt/batch-orchestra](https://github.com/hankgalt/batch-orchestra)
 
 ---
 

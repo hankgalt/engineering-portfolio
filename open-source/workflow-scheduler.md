@@ -1,6 +1,6 @@
 # Workflow Scheduler
 
-**Repository:** github.com/hankgalt/workflow-scheduler
+**Repository:** [github.com/hankgalt/workflow-scheduler](https://github.com/hankgalt/workflow-scheduler)
 
 ---
 

@@ -1,6 +1,6 @@
 # Embeddings
 
-**Repository:** github.com/hankgalt/embeddings
+**Repository:** [github.com/hankgalt/embeddings](https://github.com/hankgalt/embeddings)
 
 ---
 

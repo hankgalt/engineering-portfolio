@@ -1,5 +1,9 @@
 # Comfforts Platform
 
+**Repository:** [github.com/comfforts](https://github.com/comfforts)
+
+---
+
 ## Overview
 
 Comfforts is an open-source platform that I have been designing and developing to support individuals, local communities, businesses, service providers, and community organizers.
