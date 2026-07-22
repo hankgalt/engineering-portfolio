@@ -12,7 +12,7 @@ vtalwar.w@gmail.com
 
 [GitHub](https://github.com/hankgalt)
 
-Portfolio
+[Portfolio](https://github.com/hankgalt/engineering-portfolio/)
 
 ---
 
@@ -217,7 +217,7 @@ Highlights
 
 Technologies
 
-Go, gRPC, MongoDB, Docker, Kubernetes, OpenTelemetry
+Go, gRPC, Typescript, Nodejs, MongoDB, Docker, Kubernetes, OpenTelemetry
 
 ---
 
@@ -241,7 +241,7 @@ Highlights
 
 Technologies
 
-React, Redux, GraphQL, TypeScript, Go
+React, Redux, GraphQL, TypeScript
 
 ---
 
@@ -265,7 +265,7 @@ Highlights
 
 Technologies
 
-Go, GraphQL, Apollo Federation, Next.js, Kubernetes
+Typescript, Nodejs, Next.js, GraphQL, Apollo Federation, Kubernetes, Go
 
 ---
 
@@ -279,7 +279,7 @@ Contributed to warehouse capacity planning proof of concept.
 
 Technologies
 
-Python, Flask
+Typescript, Nodejs
 
 ---
 
@@ -303,13 +303,13 @@ Highlights
 
 Technologies
 
-Python, Flask, Cadence, React
+Python, Flask, Cadence, React, Typescript, Docker
 
 ---
 
 ## ViaPath Technologies (formerly Telmate)
 
-Software Engineer (Full-Time)
+Senior Software Engineer (Full-Time)
 
 2014 – 2018
 
@@ -325,7 +325,7 @@ Highlights
 
 Technologies
 
-JavaScript, React, REST
+JavaScript, React, Angular, HTML, CSS, REST
 
 ---
 
@@ -369,13 +369,13 @@ Highlights
 
 Technologies
 
-JavaScript, HTML, CSS
+Core JAVA, EJB, Hibernate, JavaScript, HTML, CSS
 
 ---
 
 ## Prounlimited
 
-Senior Software Engineer (Consultant)
+Software Engineer (Consultant)
 
 2006-2007
 
@@ -383,13 +383,13 @@ Developed enterprise workforce management backend services.
 
 Technologies
 
-Python, Flask, REST
+Core JAVA, EJB, Hibernate, Javascript, HTML, CSS
 
 ---
 
 # Open Source
 
-## Batch Orchestra
+## [Batch Orchestra](https://github.com/hankgalt/batch-orchestra)
 
 Generic batch-processing framework built on Temporal for resilient, large-scale workflows.
 
@@ -407,7 +407,21 @@ Highlights
 
 ---
 
-## Workflow Scheduler
+## [Embeddings](https://github.com/hankgalt/embeddings)
+
+Go library providing local transformer inference using ONNX Runtime.
+
+Highlights
+
+• Multiple embedding models
+
+• Semantic search
+
+• Vector embeddings
+
+---
+
+## [Workflow Scheduler](https://github.com/hankgalt/workflow-scheduler)
 
 Distributed workflow scheduling platform emphasizing reliability, observability, and secure communication.
 
@@ -423,21 +437,7 @@ Highlights
 
 ---
 
-## Embeddings
-
-Go library providing local transformer inference using ONNX Runtime.
-
-Highlights
-
-• Multiple embedding models
-
-• Semantic search
-
-• Vector embeddings
-
----
-
-## Comff-Geo
+## [Comfforts](https://github.com/comfforts)
 
 Distributed geocoding service built with Go, gRPC, libpostal, and ONNX embeddings.
 
@@ -445,7 +445,7 @@ Distributed geocoding service built with Go, gRPC, libpostal, and ONNX embedding
 
 # Patent
 
-Method and apparatus for reducing fluid dynamic drag using riblet geometry.
+Method and apparatus for improving fluid mixing in micro-environments using magnets.
 
 US20090227044
 

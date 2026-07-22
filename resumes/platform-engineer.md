@@ -48,8 +48,6 @@ Batch Orchestra
 
 # Projects
 
-Strong emphasis on
-
 Workflow Scheduler
 
 Batch Orchestra

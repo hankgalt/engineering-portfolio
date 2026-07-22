@@ -1,11 +1,3 @@
-# Vishal Talwar
-
-Software Engineering Architect
-
-Seattle, WA
-
----
-
 # Professional Summary
 
 Software Engineering Architect with 18+ years of experience designing distributed systems, platform infrastructure, workflow-oriented applications, and enterprise software.
@@ -64,8 +56,6 @@ I enjoy designing systems that remain maintainable, observable, and adaptable as
 
 Focus on architecture, technical leadership and major engineering decisions instead of implementation.
 
-(1–2 pages)
-
 ---
 
 # Selected Open Source
@@ -76,10 +66,6 @@ Workflow Scheduler
 
 Embeddings
 
-Comff-Geo
+Comfforts
 
 ---
-
-# Education
-
-...

@@ -58,7 +58,7 @@ Embeddings
 
 • Local inference
 
-Comff-Geo
+Comfforts
 
 • Geocoding
 
