@@ -8,21 +8,7 @@ I enjoy building internal platforms that improve developer productivity, reduce 
 
 # Core Expertise
 
-Developer Platforms
-
-Reusable Frameworks
-
-Platform APIs
-
-Workflow Systems
-
-OpenTelemetry
-
-Infrastructure
-
-Internal Tooling
-
-Developer Experience
+Developer Platforms, Reusable Frameworks, Platform APIs, Workflow Systems, OpenTelemetry, Infrastructure, Internal Tooling, Developer Experience
 
 ---
 

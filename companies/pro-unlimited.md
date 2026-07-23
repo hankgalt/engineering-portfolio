@@ -2,7 +2,7 @@
 
 **Company:** Prounlimited  
 **Role:** Software Engineer (Consultant)  
-**Duration:** 2006 – 2007 (6 months)
+**Duration:** 2006 – 2007
 
 ---
 

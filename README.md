@@ -37,17 +37,17 @@ Each chapter discusses:
 - Lessons learned
 - How the experience influenced my engineering philosophy
 
-### Companies
+### Companies (recent to oldest)
 
-- [Prounlimited](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/pro-unlimited.md)
-- [Tickets.com](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/tickets.md)
-- [Williams-Sonoma](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/williams-sonoma.md)
-- [ViaPath Technologies](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/viapath.md)
-- [Uber](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/uber.md)
-- [Restoration Hardware](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/restoration_hardware.md)
-- [Walmart Global Tech](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/walmart.md)
-- [eBay](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/ebay.md)
 - [Shrapnel](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/shrapnel.md)
+- [eBay](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/ebay.md)
+- [Walmart Global Tech](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/walmart.md)
+- [Restoration Hardware](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/restoration_hardware.md)
+- [Uber](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/uber.md)
+- [ViaPath Technologies](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/viapath.md)
+- [Williams-Sonoma](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/williams-sonoma.md)
+- [Tickets.com](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/tickets.md)
+- [Prounlimited](https://github.com/hankgalt/engineering-portfolio/blob/main/companies/pro-unlimited.md)
 
 ---
 

@@ -10,29 +10,7 @@ I enjoy designing systems that remain maintainable, observable, and adaptable as
 
 # Core Expertise
 
-• Distributed System Architecture
-
-• Platform Design
-
-• Workflow Orchestration
-
-• Microservices
-
-• API Architecture
-
-• gRPC
-
-• REST
-
-• GraphQL Federation
-
-• Metadata-driven Systems
-
-• Event-driven Systems
-
-• Observability
-
-• Developer Platforms
+Distributed System Architecture, Platform Design, Workflow Orchestration, Microservices, API Architecture, gRPC, REST, GraphQL Federation, Metadata-driven Systems, Event-driven Systems, Observability, Developer Platforms
 
 ---
 

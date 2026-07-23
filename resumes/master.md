@@ -4,15 +4,7 @@ Seattle, WA
 
 Software Engineer | Distributed Systems | Platform Engineering | Workflow Orchestration
 
-vtalwar.w@gmail.com
-
-949.202.6399
-
-[LinkedIn](https://www.linkedin.com/in/hankgalt/)
-
-[GitHub](https://github.com/hankgalt)
-
-[Portfolio](https://github.com/hankgalt/engineering-portfolio/)
+vtalwar.w@gmail.com | 949.202.6399 | [LinkedIn](https://www.linkedin.com/in/hankgalt/) | [GitHub](https://github.com/hankgalt) | [Portfolio](https://github.com/hankgalt/engineering-portfolio/)
 
 ---
 
@@ -32,7 +24,7 @@ I enjoy solving complex engineering problems by building systems that are reliab
 
 • Built workflow-driven systems using Temporal and Uber Cadence for durable, fault-tolerant business processes.
 
-• Led migration of Walmart Mexico content services to Apollo Federation GraphQL architecture.
+• Led migration of Walmart Mexico localization services to Apollo Federation GraphQL architecture.
 
 • Developed Ontology Change Management platform at eBay for safely governing taxonomy evolution across millions of marketplace listings.
 
@@ -48,25 +40,25 @@ I enjoy solving complex engineering problems by building systems that are reliab
 
 ## Engineering Evolution
 
-Tickets.com
+**Tickets.com**
 Built confidence as a software engineer by delivering production applications.
 
-Williams-Sonoma
+**Williams-Sonoma**
 Learned disciplined software engineering and reusable frameworks.
 
-ViaPath
+**ViaPath**
 Built long-lived platforms that became strategic business assets.
 
-Uber
+**Uber**
 Expanded into distributed systems and workflow orchestration.
 
-Walmart
+**Walmart**
 Led complex GraphQL federation migrations through ambiguity.
 
-eBay
+**eBay**
 Engineered metadata-driven systems and governed change at scale.
 
-Shrapnel
+**Shrapnel**
 Designed resilient platforms, workflow infrastructure, and developer tooling.
 
 ---
@@ -75,99 +67,31 @@ Designed resilient platforms, workflow infrastructure, and developer tooling.
 
 ## Languages
 
-Go
-
-TypeScript
-
-JavaScript
-
-Python
-
-Ruby
-
-SQL
+Go, TypeScript, JavaScript, Python, Ruby, SQL
 
 ---
 
 ## Backend
 
-REST
-
-gRPC
-
-GraphQL
-
-Temporal
-
-Cadence
-
-MongoDB
-
-MySQL
-
-Redis
-
-Elasticsearch
+REST, gRPC, GraphQL, Temporal, Cadence, MongoDB, MySQL, Redis, Elasticsearch
 
 ---
 
 ## Frontend
 
-React
-
-Redux
-
-Next.js
-
-Backbone
-
-HTML
-
-CSS
+React, Redux, Next.js, Backbone, HTML, CSS
 
 ---
 
 ## Cloud & Infrastructure
 
-Docker
-
-Kubernetes
-
-Helm
-
-AWS
-
-GCP
-
-OpenTelemetry
-
-Prometheus
-
-Grafana
-
-Jaeger
-
-GitHub Actions
+Docker, Kubernetes, Helm, AWS, GCP, OpenTelemetry, Prometheus, Grafana, Jaeger, GitHub Actions
 
 ---
 
 ## Architecture
 
-Distributed Systems
-
-Workflow Orchestration
-
-Microservices
-
-Platform Engineering
-
-Developer Tooling
-
-Observability
-
-API Design
-
-Metadata-driven Systems
+Distributed Systems, Workflow Orchestration, Microservices, Platform Engineering, Developer Tooling, Observability, API Design, Metadata-driven Systems
 
 ---
 
@@ -182,28 +106,21 @@ Worked with multiple organizations designing distributed systems, platform infra
 Clients include:
 
 • Shrapnel
-
 • eBay
-
 • Walmart
-
 • Uber
-
 • Restoration Hardware
-
 • Prounlimited
 
 ---
 
 ## Shrapnel
 
-Senior Software Engineer (Consultant → Full-Time)
-
-2024 – 2025
+Senior Software Engineer (Consultant → Full-Time) 2024 – 2025
 
 Designed and implemented distributed platform services supporting game backend infrastructure.
 
-Highlights
+**Highlights**
 
 • Designed workflow-oriented platform services.
 
@@ -215,7 +132,7 @@ Highlights
 
 • Strengthened observability across services.
 
-Technologies
+**Technologies**
 
 Go, gRPC, Typescript, Nodejs, MongoDB, Docker, Kubernetes, OpenTelemetry
 
@@ -223,13 +140,11 @@ Go, gRPC, Typescript, Nodejs, MongoDB, Docker, Kubernetes, OpenTelemetry
 
 ## eBay
 
-Senior Software Engineer (Consultant)
-
-2023 – 2024
+Senior Software Engineer (Consultant) 2023 – 2024
 
 Worked on Ontology Change Management platform governing marketplace taxonomy evolution.
 
-Highlights
+**Highlights**
 
 • Developed metadata-driven workflow systems.
 
@@ -239,7 +154,7 @@ Highlights
 
 • Improved internal engineering tooling.
 
-Technologies
+**Technologies**
 
 React, Redux, GraphQL, TypeScript
 
@@ -247,23 +162,19 @@ React, Redux, GraphQL, TypeScript
 
 ## Walmart Global Tech
 
-Senior Software Engineer (Consultant)
+Senior Software Engineer (Consultant) 2021 – 2022
 
-2021 – 2022
+Migrated Walmart Mexico localization services to Apollo Federation architecture.
 
-Migrated Walmart Mexico content platform to Apollo Federation architecture.
-
-Highlights
+**Highlights**
 
 • Migrated GraphQL services.
 
 • Reduced latency through service redesign.
 
-• Built Go backend services.
-
 • Implemented distributed tracing using OpenTelemetry.
 
-Technologies
+**Technologies**
 
 Typescript, Nodejs, Next.js, GraphQL, Apollo Federation, Kubernetes, Go
 
@@ -271,13 +182,11 @@ Typescript, Nodejs, Next.js, GraphQL, Apollo Federation, Kubernetes, Go
 
 ## Restoration Hardware
 
-Senior Software Engineer (Consultant)
-
-2019
+Senior Software Engineer (Consultant) 2019
 
 Contributed to warehouse capacity planning proof of concept.
 
-Technologies
+**Technologies**
 
 Typescript, Nodejs
 
@@ -285,13 +194,11 @@ Typescript, Nodejs
 
 ## Uber
 
-Senior Software Engineer (Consultant)
-
-2018 – 2019
+Senior Software Engineer (Consultant) 2018 – 2021
 
 Worked on Recruiting Engineering platform.
 
-Highlights
+**Highlights**
 
 • Developed backend services.
 
@@ -301,7 +208,7 @@ Highlights
 
 • Integrated external systems.
 
-Technologies
+**Technologies**
 
 Python, Flask, Cadence, React, Typescript, Docker
 
@@ -309,13 +216,11 @@ Python, Flask, Cadence, React, Typescript, Docker
 
 ## ViaPath Technologies (formerly Telmate)
 
-Senior Software Engineer (Full-Time)
-
-2014 – 2018
+Senior Software Engineer (Full-Time) 2014 – 2018
 
 Built Command Center administration platform.
 
-Highlights
+**Highlights**
 
 • Developed reusable frontend platform.
 
@@ -323,7 +228,7 @@ Highlights
 
 • Supported long-term product evolution.
 
-Technologies
+**Technologies**
 
 JavaScript, React, Angular, HTML, CSS, REST
 
@@ -331,13 +236,11 @@ JavaScript, React, Angular, HTML, CSS, REST
 
 ## Williams-Sonoma
 
-Software Engineer (Full-Time)
-
-2012 – 2014
+Software Engineer (Full-Time) 2012 – 2014
 
 Developed reusable frontend framework shared across multiple retail brands.
 
-Highlights
+**Highlights**
 
 • Built reusable UI components.
 
@@ -345,7 +248,7 @@ Highlights
 
 • Worked within mature enterprise development processes.
 
-Technologies
+**Technologies**
 
 JavaScript, Backbone, RequireJS
 
@@ -353,13 +256,11 @@ JavaScript, Backbone, RequireJS
 
 ## Tickets.com
 
-Software Engineer (Consultant → Full-Time)
-
-2007 – 2012
+Software Engineer (Consultant → Full-Time) 2007 – 2012
 
 Developed enterprise ticketing applications for sports and entertainment organizations.
 
-Highlights
+**Highlights**
 
 • Built customer-facing web applications.
 
@@ -367,7 +268,7 @@ Highlights
 
 • Converted from consultant to full-time engineer based on performance and work ethic.
 
-Technologies
+**Technologies**
 
 Core JAVA, EJB, Hibernate, JavaScript, HTML, CSS
 
@@ -375,13 +276,11 @@ Core JAVA, EJB, Hibernate, JavaScript, HTML, CSS
 
 ## Prounlimited
 
-Software Engineer (Consultant)
-
-2006-2007
+Software Engineer (Consultant) 2006-2007
 
 Developed enterprise workforce management backend services.
 
-Technologies
+**Technologies**
 
 Core JAVA, EJB, Hibernate, Javascript, HTML, CSS
 
@@ -391,15 +290,12 @@ Core JAVA, EJB, Hibernate, Javascript, HTML, CSS
 
 ## [Comfforts Platform](https://github.com/comfforts)
 
-Founder & Software Architect
+Founder & Software Architect 2024 – Present
 
-2024 – Present
+Open-source microservices platform to support individuals, local communities, businesses, and service providers. The platform is organized around independently deployable services for identity management, geospatial intelligence, workflow orchestration, communication, and operational infrastructure, with gRPC-based service contracts and Kubernetes-native deployment.
+[Architecture overview](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/comfforts.md)
 
-Designing and building an open-source microservices platform to support individuals, local communities, businesses, and service providers. The platform is organized around independently deployable services for identity management, geospatial intelligence, workflow orchestration, communication, and operational infrastructure, with gRPC-based service contracts and Kubernetes-native deployment.
-
-[architecture overview](https://github.com/hankgalt/engineering-portfolio/blob/main/open-source/comfforts.md)
-
-Highlights
+**Highlights**
 
 • Designed a modular microservices architecture with clearly defined domain ownership across profile management, geospatial services, workflow orchestration, email delivery, and web application layers.
 
@@ -413,7 +309,7 @@ Highlights
 
 • Created a REST gateway and Next.js web application that expose platform capabilities while preserving gRPC-based internal service boundaries.
 
-Technologies
+**Technologies**
 
 Go, TypeScript, Next.js, gRPC, Protocol Buffers, Temporal, MongoDB, Redis, Elasticsearch, ONNX Runtime, Kubernetes, Docker, Helm, OpenTelemetry, Prometheus, Grafana, Jaeger, Loki
 
@@ -423,7 +319,7 @@ Go, TypeScript, Next.js, gRPC, Protocol Buffers, Temporal, MongoDB, Redis, Elast
 
 Generic batch-processing framework built on Temporal for resilient, large-scale workflows.
 
-Highlights
+**Highlights**
 
 • Generic orchestration
 
@@ -441,7 +337,7 @@ Highlights
 
 Go library providing local transformer inference using ONNX Runtime.
 
-Highlights
+**Highlights**
 
 • Multiple embedding models
 
@@ -455,7 +351,7 @@ Highlights
 
 Distributed workflow scheduling platform emphasizing reliability, observability, and secure communication.
 
-Highlights
+**Highlights**
 
 • gRPC
 
@@ -477,7 +373,7 @@ US20090227044
 
 # Education
 
-Master of Science
+**Master of Science**
 
 Mechanical Engineering
 
@@ -485,7 +381,7 @@ University of California, Davis
 
 ---
 
-Bachelor of Engineering
+**Bachelor of Engineering**
 
 Mechanical Engineering
 
@@ -493,7 +389,7 @@ Punjab Technical University
 
 ---
 
-Diploma
+**Diploma**
 
 Software Engineering
 

@@ -8,31 +8,7 @@ Experienced in designing reliable systems using Go, gRPC, Temporal, Cadence, Kub
 
 # Core Expertise
 
-Go
-
-Distributed Systems
-
-Temporal
-
-Cadence
-
-gRPC
-
-MongoDB
-
-MySQL
-
-Redis
-
-Docker
-
-Kubernetes
-
-Fault Tolerance
-
-Idempotency
-
-Workflow Orchestration
+Go, Distributed Systems, Temporal, Cadence, gRPC, MongoDB, MySQL, Redis, Docker, Kubernetes, Fault Tolerance, Idempotency, Workflow Orchestration
 
 ---
 

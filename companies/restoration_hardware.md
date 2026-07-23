@@ -2,7 +2,7 @@
 
 **Company:** Restoration Hardware (RH)  
 **Role:** Senior Software Engineer (Consultant)  
-**Duration:** 2019 (3 months)
+**Duration:** 2019
 
 ---
 

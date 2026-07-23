@@ -8,27 +8,7 @@ Strong experience developing production systems using Go, Python, gRPC, REST, Gr
 
 # Core Expertise
 
-Go
-
-Python
-
-REST
-
-gRPC
-
-GraphQL
-
-MongoDB
-
-MySQL
-
-Redis
-
-Docker
-
-Kubernetes
-
-OpenTelemetry
+Go, Python, REST, gRPC, GraphQL, MongoDB, MySQL, Redis, Docker, Kubernetes, OpenTelemetry
 
 ---
 

@@ -8,23 +8,7 @@ Interested in the engineering foundations of modern AI systems, including transf
 
 # Core Expertise
 
-Go
-
-ONNX Runtime
-
-Embeddings
-
-Semantic Search
-
-Vector Search
-
-gRPC
-
-Distributed Systems
-
-OpenTelemetry
-
-Platform Engineering
+Go, ONNX Runtime, Embeddings, Semantic Search, Vector Search, gRPC, Distributed Systems, OpenTelemetry, Platform Engineering
 
 ---
 

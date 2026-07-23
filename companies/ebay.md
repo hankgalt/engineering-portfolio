@@ -2,7 +2,7 @@
 
 **Company:** eBay  
 **Role:** Senior Software Engineer (Contract)  
-**Duration:** September 2023 – February 2024
+**Duration:** 2023 – 2024
 
 ---
 

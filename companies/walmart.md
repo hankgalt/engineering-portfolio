@@ -2,13 +2,13 @@
 
 **Company:** Walmart International  
 **Role:** Senior Software Engineer (Contract)  
-**Duration:** September 2021 – September 2022
+**Duration:** 2021 – 2022
 
 ---
 
 # Executive Summary
 
-At Walmart International, I worked on migrating Walmart Mexico's content platform to a modern GraphQL-based architecture built on Apollo Federation.
+At Walmart International, I worked on migrating Walmart Mexico's localization services to a modern GraphQL-based architecture built on Apollo Federation.
 
 Unlike many engineering projects where the implementation path is well understood, this project began with only a broad objective: migrate the existing functionality into the new platform. The technical requirements, migration strategy, dependencies, and implementation details were largely undefined.
 
@@ -24,7 +24,7 @@ This project fundamentally changed how I approach engineering problems with inco
 
 Walmart International operates multiple regional e-commerce platforms, each with different business requirements, product catalogs, localization rules, and customer experiences.
 
-As the organization modernized its platform architecture, Walmart Mexico began migrating content services toward a federated GraphQL platform.
+As the organization modernized its platform architecture, Walmart Mexico began migrating services toward a federated GraphQL platform.
 
 The objectives included:
 
@@ -71,14 +71,14 @@ Apollo Gateway
         │
  ┌──────┼────────────┐
  │      │            │
-Content Product Catalog Pricing
+Localization Product Catalog Pricing
 Service     Service      Service
         │
         ▼
 Regional Data Sources
 ```
 
-The Content Service acted as one of the federated GraphQL services responsible for exposing localized content consumed by Walmart Mexico.
+The Localization Service acted as one of the federated GraphQL services responsible for exposing personalized content consumed by Walmart Mexico.
 
 The architecture emphasized:
 
