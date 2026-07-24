@@ -249,6 +249,7 @@ Languages
 
 - JavaScript
 - TypeScript
+- Ruby
 
 Frontend
 
@@ -258,6 +259,7 @@ Frontend
 
 Backend Integration
 
+- Ruby on Rails
 - REST APIs
 - OAuth2 Authentication
 

@@ -42,9 +42,9 @@ Although the engagement lasted only a few months, it reinforced several importan
 
 # Technologies
 
-- Python
-- Flask
+- Typescript
+- Nodejs
+- React
 - REST APIs
-- Distributed Services
 - Git
 - Agile Development
