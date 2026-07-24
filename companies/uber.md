@@ -24,17 +24,11 @@ Looking back, this role represents the point where I consciously transitioned fr
 
 # Executive Summary
 
-Joining Uber marked a deliberate turning point in my career.
+Across two consulting engagements, I worked on Uber's internal recruiting platform, which coordinated candidate and interview workflows across recruiters, hiring managers, calendar providers, video conferencing tools, and internal recruiting systems.
 
-Until then, I had spent most of my professional life building front-end applications. While I enjoyed creating user interfaces and improving user experiences, I increasingly felt that my understanding of software engineering was incomplete. I had limited exposure to distributed systems, backend architecture, and the operational challenges involved in running software at large scale.
+My scope expanded from building React interfaces to developing Python and Flask services, designing APIs, integrating external systems, debugging production issues, and applying Cadence to long-running workflows. The work required treating failures, retries, synchronization, and service boundaries as core design concerns rather than implementation details.
 
-Recognizing that growth would require a fundamentally different environment, I made the difficult decision to leave a stable full-time position and pursue consulting opportunities. My objective was not simply to change employers, but to accelerate my learning by working on technically demanding systems.
-
-Uber became that opportunity.
-
-Working on Uber's internal recruiting platform exposed me to distributed services, asynchronous workflows, service integrations, event-driven systems, and engineering at a scale I had not previously experienced. It was also my first introduction to Cadence, Uber's workflow orchestration platform, which fundamentally changed how I thought about long-running business processes.
-
-Looking back, this role transformed me from primarily a front-end engineer into a software engineer who began thinking in terms of systems rather than applications.
+This experience gave me end-to-end ownership within a large service-oriented architecture and showed me how internal platforms create organizational leverage by reducing operational friction and making complex business processes more reliable.
 
 ---
 
