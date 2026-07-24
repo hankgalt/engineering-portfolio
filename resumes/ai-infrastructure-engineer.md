@@ -106,7 +106,7 @@ Consultant | 2006–2007
 
 ## Patent
 
-**Method and Apparatus for Improving Fluid Mixing in Micro-Environments Using Magnets** — US20090227044
+**Method and Apparatus for Improving Fluid Mixing in Micro-Environments Using Magnets** — [US20090227044](https://patents.google.com/patent/US20090227044)
 
 ## Education
 
