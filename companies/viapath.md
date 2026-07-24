@@ -248,7 +248,6 @@ When you know you will live with your design decisions, maintainability, readabi
 Languages
 
 - JavaScript
-- TypeScript
 - Ruby
 
 Frontend
